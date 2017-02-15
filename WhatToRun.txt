@@ -1,0 +1,6 @@
+* Run ay_paper_simulator_parallel for simulation
+
+- Note that simulation will clear previous simulation files
+
+* Run ay_plot_result_study_jan18_2017 to plot the simulation result
+
